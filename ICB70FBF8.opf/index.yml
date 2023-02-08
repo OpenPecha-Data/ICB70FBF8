@@ -1,0 +1,47 @@
+id: c8746eafd99c4da498016eb78af3c3c8
+annotation_type: index
+revision: '00001'
+annotations:
+  a0cab77d179843e798c97efb57e9c69a:
+    base: 2AFB.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 30
+    - title: Homage
+      span:
+        start: 31
+        end: 52
+    - title: Short §1
+      span:
+        start: 53
+        end: 304
+    - title: Short §2
+      span:
+        start: 305
+        end: 515
+    - title: Short §3
+      span:
+        start: 516
+        end: 643
+    - title: Short §4
+      span:
+        start: 644
+        end: 1303
+    - title: Short §5
+      span:
+        start: 1304
+        end: 1798
+    - title: Short §6
+      span:
+        start: 1799
+        end: 2262
+    - title: Short §7
+      span:
+        start: 2263
+        end: 2822
+    - title: Colophon
+      span:
+        start: 2823
+        end: 2833
